@@ -1,0 +1,4 @@
+APPLICATION_NAME = {{ name }} BETA
+BUNDLE_ID = com.jem.{{ name }}.beta
+VERSION_NUMBER = 0.0.0
+BUILD_NUMBER = 0

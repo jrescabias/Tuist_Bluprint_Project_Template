@@ -1,0 +1,4 @@
+APPLICATION_NAME = {{ name }} DEV
+BUNDLE_ID = com.jem.{{ name }}.dev
+VERSION_NUMBER = 0.0.0
+BUILD_NUMBER = 0
